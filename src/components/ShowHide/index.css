@@ -1,0 +1,12 @@
+/* Write your CSS here */
+body {
+  background-color: #f0f0f0;
+  background: linear-gradient(to right, #fa7257, #fc63a7);
+}
+
+.main-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
